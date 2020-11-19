@@ -1,2 +1,4 @@
 import pythonwa
 print('jao chutiye')
+
+add variable 1
